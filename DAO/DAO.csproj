@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C07BBE2-7D0C-4064-83EA-7F6E2FA65DCD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DAO</RootNamespace>
+    <AssemblyName>DAO</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Oracle.DataAccess, Version=2.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexões SQL\ClasseConexaoDAO.cs" />
+    <Compile Include="Capsulas SQL\ClienteSql.cs" />
+    <Compile Include="Conexões SQL\DAOClienteSql.cs" />
+    <Compile Include="Conexões SQL\DAOFuncionarioSql.cs" />
+    <Compile Include="Conexões SQL\DAOProdutoSql.cs" />
+    <Compile Include="Capsulas SQL\FuncionarioSql.cs" />
+    <Compile Include="Capsulas SQL\ProdutoSql.cs" />
+    <Compile Include="Conexões SQL\DAOPedidoSql.cs" />
+    <Compile Include="Capsulas SQL\PedidoSql.cs" />
+    <Compile Include="Conexões SQL\DAOCepSql.cs" />
+    <Compile Include="Conexões SQL\DAOVendaSql.cs" />
+    <Compile Include="Conexões SQL\DAOEstoqueSql.cs" />
+    <Compile Include="Capsulas SQL\EstoqueSql.cs" />
+    <Compile Include="Conexões SQL\DAOItemSql.cs" />
+    <Compile Include="Capsulas SQL\ItemSql.cs" />
+    <Compile Include="Conexões SQL\DAOLucroSql.cs" />
+    <Compile Include="Conexões SQL\DAODetalheSql.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Capsulas SQL\VendaSql.cs" />
+    <Compile Include="Validar\validarCNPJ.cs" />
+    <Compile Include="Validar\ValidarCPF.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

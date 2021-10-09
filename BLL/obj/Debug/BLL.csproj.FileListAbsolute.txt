@@ -1,0 +1,237 @@
+Z:\2017\LP2\Sistema_FM\BLL\bin\Debug\BLL.dll
+Z:\2017\LP2\Sistema_FM\BLL\bin\Debug\BLL.pdb
+Z:\2017\LP2\Sistema_FM\BLL\bin\Debug\DAO.dll
+Z:\2017\LP2\Sistema_FM\BLL\bin\Debug\DAO.pdb
+Z:\2017\LP2\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\2017\LP2\Sistema_FM\BLL\obj\Debug\BLL.dll
+Z:\2017\LP2\Sistema_FM\BLL\obj\Debug\BLL.pdb
+Z:\TCC_Sorveteria\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\TCC_Sorveteria\Sistema_FM\BLL\obj\Debug\BLL.dll
+Z:\TCC_Sorveteria\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC_Sorveteria\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC_Sorveteria\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC_Sorveteria\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC_Sorveteria\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC_Sorveteria\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC_Sorveteria\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\TCC_Sorveteria\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\TUDO DO ZERO\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\TUDO DO ZERO\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\TUDO DO ZERO\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\TUDO DO ZERO\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\TUDO DO ZERO\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\TUDO DO ZERO\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\ITB - INF\TCC\TUDO DO ZERO\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Desktop\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\TCC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\TCC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\TCC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Desktop\TCC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\TCC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TCC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\TCC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+Z:\Sistema_FM\BLL\bin\Debug\BLL.dll
+Z:\Sistema_FM\BLL\bin\Debug\BLL.pdb
+Z:\Sistema_FM\BLL\bin\Debug\DAO.dll
+Z:\Sistema_FM\BLL\bin\Debug\DAO.pdb
+Z:\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\Sistema_FM\BLL\obj\Debug\BLL.dll
+Z:\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\TCC OFICIAL\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\TCC OFICIAL\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\TCC OFICIAL\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\TCC OFICIAL\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB\TCC OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mateus\ITB\TCC OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITB\TCC OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.pdb
+F:\TCC REAL OFICIAL\Sistema_FM\BLL\bin\Debug\BLL.dll
+F:\TCC REAL OFICIAL\Sistema_FM\BLL\bin\Debug\BLL.pdb
+F:\TCC REAL OFICIAL\Sistema_FM\BLL\bin\Debug\DAO.dll
+F:\TCC REAL OFICIAL\Sistema_FM\BLL\bin\Debug\DAO.pdb
+F:\TCC REAL OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\TCC REAL OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.dll
+F:\TCC REAL OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.pdb
+Z:\TCC REAL OFICIAL\Sistema_FM\BLL\bin\Debug\BLL.dll
+Z:\TCC REAL OFICIAL\Sistema_FM\BLL\bin\Debug\BLL.pdb
+Z:\TCC REAL OFICIAL\Sistema_FM\BLL\bin\Debug\DAO.dll
+Z:\TCC REAL OFICIAL\Sistema_FM\BLL\bin\Debug\DAO.pdb
+Z:\TCC REAL OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\TCC REAL OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.dll
+Z:\TCC REAL OFICIAL\Sistema_FM\BLL\obj\Debug\BLL.pdb
+Z:\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+Z:\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+Z:\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+Z:\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+Z:\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+Z:\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+D:\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+D:\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+D:\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+D:\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+D:\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+D:\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\TCC AGORA VAI ESSA BUCETA SÓ POR DEUS VIU EM\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\TCC AGORA VAI ESSA BUCETA SÓ POR DEUS VIU EM\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\TCC AGORA VAI ESSA BUCETA SÓ POR DEUS VIU EM\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Desktop\TCC AGORA VAI ESSA BUCETA SÓ POR DEUS VIU EM\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\TCC AGORA VAI ESSA BUCETA SÓ POR DEUS VIU EM\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\TCC AGORA VAI ESSA BUCETA SÓ POR DEUS VIU EM\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TCC AGORA VAI ESSA BUCETA SÓ POR DEUS VIU EM\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\TCC AGORA VAI ESSA BUCETA SÓ POR DEUS VIU EM\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB - TCC - PRÉ BANCA NOVEMBRO\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITB - TCC - PRÉ BANCA NOVEMBRO\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB - TCC - PRÉ BANCA NOVEMBRO\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\Usuario\Desktop\Mateus\ITB - TCC - PRÉ BANCA NOVEMBRO\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Usuario\Desktop\Mateus\ITB - TCC - PRÉ BANCA NOVEMBRO\TCC REAL OFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\Usuario\Desktop\Mateus\ITB - TCC - PRÉ BANCA NOVEMBRO\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mateus\ITB - TCC - PRÉ BANCA NOVEMBRO\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITB - TCC - PRÉ BANCA NOVEMBRO\TCC REAL OFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Mateus\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\Usuario\Desktop\Mateus\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Usuario\Desktop\Mateus\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\Usuario\Desktop\Mateus\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mateus\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Mateus\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+D:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+D:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+D:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+D:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+D:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+D:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+D:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+H:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+H:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+H:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+H:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+H:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+H:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+H:\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Desktop\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+E:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+E:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+E:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+E:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+E:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+E:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+E:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\girag\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\girag\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\girag\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\girag\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\girag\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\girag\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\girag\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\girag\Desktop\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+D:\AQUELE TCC QUE AGORA VAI\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\girag\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\girag\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\girag\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\girag\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\girag\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\girag\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\girag\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\girag\Desktop\OLHA ESTE TCC FILHO DE UNA PROSTETUTA DA AUGUSTA\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\52\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\52\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\52\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Desktop\52\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\52\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\52\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\52\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\girag\Desktop\53\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\girag\Desktop\53\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\girag\Desktop\53\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\girag\Desktop\53\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\girag\Desktop\53\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\girag\Desktop\53\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\girag\Desktop\53\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\girag\Desktop\53\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\girag\Desktop\64\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\girag\Desktop\64\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\girag\Desktop\64\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\girag\Desktop\64\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\girag\Desktop\64\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\girag\Desktop\64\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\girag\Desktop\64\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\girag\Desktop\64\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\70\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\70\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\70\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\User\Desktop\70\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\70\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\70\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\70\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\girag\Desktop\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\girag\Desktop\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\girag\Desktop\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\girag\Desktop\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\girag\Desktop\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\girag\Desktop\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\girag\Desktop\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\girag\Desktop\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\girag\Desktop\Nova pasta (2)\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\girag\Desktop\Nova pasta (2)\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\girag\Desktop\Nova pasta (2)\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\girag\Desktop\Nova pasta (2)\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\girag\Desktop\Nova pasta (2)\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\girag\Desktop\Nova pasta (2)\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\girag\Desktop\Nova pasta (2)\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\girag\Desktop\Nova pasta (2)\72\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
+C:\Users\girag\Desktop\73\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.dll
+C:\Users\girag\Desktop\73\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\BLL.pdb
+C:\Users\girag\Desktop\73\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.dll
+C:\Users\girag\Desktop\73\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\girag\Desktop\73\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\bin\Debug\DAO.pdb
+C:\Users\girag\Desktop\73\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\girag\Desktop\73\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.dll
+C:\Users\girag\Desktop\73\ITBTCC\TCCREALOFIC\Sistema_FM\BLL\obj\Debug\BLL.pdb
